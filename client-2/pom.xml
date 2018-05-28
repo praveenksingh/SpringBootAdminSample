@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.bootadmin</groupId>
+	<groupId>com.praveen</groupId>
 	<artifactId>SprinBootClient2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>SpringBootClient2</name>
+	<name>SimpleClientApplication-Two</name>
 	<description>Client Application no 2</description>
 
 	<parent>
